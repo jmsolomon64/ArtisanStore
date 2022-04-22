@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xa30CmxN0exJDvpjuYaX4d7ELn+0N0oKwDOA27sdUrzhu8kqjLVUcYrZykvKdIVPfLm1/0joBiklvRcRMgoxGQ==",
+  "success": true,
+  "projectFilePath": "/home/jacob/Repos/CSharp/EFA/ArtisanStore/ArtisanStore/ArtisanStore.csproj",
+  "expectedPackageFiles": [
+    "/home/jacob/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/jacob/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/jacob/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/jacob/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/jacob/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/jacob/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
