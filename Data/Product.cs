@@ -15,5 +15,10 @@ namespace ArtisanStore.Data
         [ForeignKey("Category")]
         [Required]
         public int CategoryId {get; set;}
+        [ForeignKey("User")]
+        [Required]
+        public int UserId {get; set;} //tracks the user that is selling this item
+        [Required]
+        public int OnHand {get; set;} //tracks amount of product in inventory
     }
 }
