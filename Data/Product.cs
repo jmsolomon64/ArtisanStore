@@ -15,5 +15,7 @@ namespace ArtisanStore.Data
         [ForeignKey("Category")]
         [Required]
         public int CategoryId {get; set;}
+        [Required]
+        public int OnHand {get; set;} //tracks amount of product in inventory
     }
 }
