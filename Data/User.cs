@@ -13,9 +13,9 @@ namespace ArtisanStore.Data
         public DateTime Joined {get; set;}
         [Required]
 
-        public bool isVendor {get; set;} //setting to true gives access to inventory manipulation and advertisement functionality
+        public bool IsVendor {get; set;} //setting to true gives access to inventory manipulation and advertisement functionality
         [Required]
 
-        public bool isAdvertiser {get; set;} //will lock out functionality to only manipulating ads
+        public bool IsAdvertiser {get; set;} //will lock out functionality to only manipulating ads
     }
 }
